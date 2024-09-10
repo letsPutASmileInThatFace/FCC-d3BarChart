@@ -1,0 +1,8 @@
+.container-fluid {
+  height: 100vh;
+}
+.container {
+  width: 960px;
+  height: 600px;
+  background-color: rgb(235, 240, 240);
+}
